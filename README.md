@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parham
-- 🪐 I’m Self-Taught Front-End Developer
+- 🪐 Self-Taught Front-End Developer
 - ⚡ I'm extremely passionate, who enjoys making things happen with HTML, CSS, JAVASCRIPT
 - 📫 How to reach me : @mahrapzeus on instagram / Email: tavakolianparham@gmail.com
 
