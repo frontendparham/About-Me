@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parham
+- 👋 Hi, I’m Parham Tavakolian
 - 🪐 Self-Taught Front-End Developer
 - ⚡ I'm extremely passionate, who enjoys making things happen with HTML, CSS, JAVASCRIPT
 - 📫 How to reach me : instagram: https://www.instagram.com/frontendparham/ / Telegram: https://t.me/frontendparham / Email: tavakolianparham@gmail.com
