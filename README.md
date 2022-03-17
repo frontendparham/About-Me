@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 </p>
 
-<h3>How to reach me:</h3>
+<h3>How to Reach Me:</h3>
 
 
 - [Gmail](mailto:tavakolianparham@gmail.com)
