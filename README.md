@@ -17,11 +17,9 @@
 </p>
 
 <h3>Let's Connect:</h3>
-- Email: <p><a href="mailto:tavakolianparham@gmail.com" target="_blank"></a></p>
-- Instagranm: <p><a href="https://www.instagram.com/frontendparham/" target="_blank"></a></p>
-- Telegram: <p><a href="https://t.me/frontendparham" target="_blank"></a></p>
-
-
+Email: <p><a href="mailto:tavakolianparham@gmail.com" target="_blank"></a>
+Instagranm: <p><a href="https://www.instagram.com/frontendparham/" target="_blank"></a></p>
+Telegram: <p><a href="https://t.me/frontendparham" target="_blank"></a></p>
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=frontendparham&theme=omni&show_icons=true&locale=en) -->
