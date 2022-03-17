@@ -17,8 +17,11 @@
 </p>
 
 <h3>Let's Connect:</h3>
-Email: tavakolianparham@gmail.com / instagram: https://www.instagram.com/frontendparham/ / Telegram: https://t.me/frontendparham
+- Email: <p><a href="mailto:tavakolianparham@gmail.com" target="_blank"></a></p>
+- Instagranm: <p><a href="https://www.instagram.com/frontendparham/" target="_blank"></a></p>
+- Telegram: <p><a href="https://t.me/frontendparham" target="_blank"></a></p>
 
-<p><a href="https://www.instagram.com/frontendparham/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="me in instagram" height="auto" width="30"/></a></p>
+
+
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->
