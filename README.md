@@ -19,7 +19,7 @@
 <h3>Let's Connect:</h3>
 
 
-- [Email](mailto:tavakolianparham@gmail.com)
+- [Gmail](mailto:tavakolianparham@gmail.com)
 - [Telegram](https://t.me/frontendparham)
 - [WhatsApp](https://api.whatsapp.com/send?phone=9809190068296&text=How%20can%20I%20help%20you?)
 
