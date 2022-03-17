@@ -20,6 +20,5 @@
 
 
 - [Gmail](mailto:tavakolianparham@gmail.com)
-- [Telegram](https://t.me/frontendparham)
-- [WhatsApp](https://api.whatsapp.com/send?phone=9809190068296&text=How%20can%20I%20help%20you?)
+- [Telegram](https://t.me/parham_tvk)
 
