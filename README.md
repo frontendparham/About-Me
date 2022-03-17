@@ -17,7 +17,5 @@
 </p>
 
 <h3>Let's Connect:</h3>
-<p><a href="mailto:tavakolianparham@gmail.com" target="_blank"></a><p><a href="https://www.instagram.com/frontendparham/" target="_blank"></a></p><p><a href="https://t.me/frontendparham" target="_blank"></a></p>
+[Email](mailto:tavakolianparham@gmail.com) / [Telegram](https://t.me/frontendparham) / [WhatsApp](https://api.whatsapp.com/send?phone=9809190068296&text=How%20can%20I%20help%20you?)
 
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=frontendparham&theme=omni&show_icons=true&locale=en) -->
