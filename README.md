@@ -2,7 +2,7 @@
 <h2 align="center">Frontend development enthusiast</h2>
 
 
-- ⚡ I enjoys making things happen with HTML, CSS, JAVASCRIPT
+- ⚡ I enjoy making things happen with HTML, CSS, JAVASCRIPT
 - 🌸 I'm currently mastering JvaScript and want to start React
 - 🪐 Self-Taught Front-End Developer
 
@@ -17,4 +17,8 @@
 </p>
 
 <h3>Let's Connect:</h3>
-- 📫 How to reach me : instagram: https://www.instagram.com/frontendparham/ / Telegram: https://t.me/frontendparham / Email: tavakolianparham@gmail.com
+Email: tavakolianparham@gmail.com / instagram: https://www.instagram.com/frontendparham/ / Telegram: https://t.me/frontendparham
+
+<p><a href="https://www.instagram.com/frontendparham/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="me in instagram" height="auto" width="30"/></a></p>
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->
