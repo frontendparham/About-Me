@@ -21,4 +21,4 @@
 
 - [Gmail](mailto:tavakolianparham@gmail.com)
 - [Telegram](https://t.me/parham_tvk)
-- [Telegram](https://wa.me/989190068296)
+- [Whatsapp](https://wa.me/989190068296)
