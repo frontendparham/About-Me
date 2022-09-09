@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parham-tavakolian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parham-tavakolian" height="30" width="40" /></a>
-<a href="https://instagram.com/ecofrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ecofrontend" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parham-tavakolian" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parham-tavakolian" height="30" width="40" /></a>
+<a href="https://instagram.com/ecofrontend" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ecofrontend" height="30" width="40" /></a>
 </p>
 
 <h3>Languages & Tools I Use:</h3>
