@@ -3,7 +3,7 @@
 
 
 - ⚡ I enjoy making things happen with HTML, CSS, JAVASCRIPT
-- 🌵 I'm currently mastering JvaScript and want to start React
+- 🌵 I'm currently mastering JvaScript and React
 - 🪐 Self-Taught Front-End Developer
 
 
