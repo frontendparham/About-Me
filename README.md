@@ -3,7 +3,7 @@
 
 
 - ⚡ I enjoy making things happen with HTML, CSS, JAVASCRIPT
-- 🌵 I'm currently mastering JvaScript and React
+- 🌵 I'm currently mastering Javascript and React.js
 - 🪐 Self-Taught Front-End Developer
 
 <h3 align="left">Connect with me:</h3>
