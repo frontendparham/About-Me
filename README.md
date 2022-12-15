@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hi, I’m Parham</h1>
 <h2 align="center">Frontend development enthusiast</h2>
 
+- ⚡ I enjoy making things happen with HTML, CSS, JAVASCRIPT
+- 🌵 I'm currently mastering Javascript and React.js
+- 🪐 Self-Taught Front-End Developer
+
+ JavaScript — ⚛️ ReactJS ✨ {HTML, CSS, SASS, Bootstrap}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
