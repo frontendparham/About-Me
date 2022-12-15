@@ -2,10 +2,6 @@
 <h2 align="center">Frontend development enthusiast</h2>
 
 
-- ⚡ I enjoy making things happen with HTML, CSS, JAVASCRIPT
-- 🌵 I'm currently mastering Javascript and React.js
-- 🪐 Self-Taught Front-End Developer
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parham-tavakolian" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parham-tavakolian" height="30" width="40" /></a>
